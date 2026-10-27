@@ -1,0 +1,7 @@
+llm_secrets.env
+.venv/
+logs/
+backups/
+__pycache__/
+.pytest_cache/
+*.pyc

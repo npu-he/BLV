@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "name": "示例商场一层",
+    "crs": "local_meters",
+    "description": "演示换地图：商场，不是校园"
+  },
+  "pois": [
+    {"id": "entrance", "name": "正门", "name_en": "Main Entrance", "type": "entrance", "x": 0, "y": 0, "aliases": ["门口", "入口"]},
+    {"id": "info", "name": "服务台", "name_en": "Info Desk", "type": "amenity", "x": 10, "y": 15, "aliases": ["问讯处"]},
+    {"id": "toilet", "name": "卫生间", "name_en": "Restroom", "type": "amenity", "x": -20, "y": 30, "aliases": ["厕所", "洗手间"]},
+    {"id": "elevator", "name": "电梯", "name_en": "Elevator", "type": "landmark", "x": 25, "y": 20, "aliases": ["直梯"]},
+    {"id": "starbucks", "name": "星巴克", "name_en": "Starbucks", "type": "amenity", "x": 40, "y": 10, "aliases": ["咖啡店"]},
+    {"id": "uniqlo", "name": "优衣库", "name_en": "Uniqlo", "type": "building", "x": 50, "y": 40, "aliases": []},
+    {"id": "food_court", "name": "美食广场", "name_en": "Food Court", "type": "amenity", "x": -30, "y": 50, "aliases": ["餐饮区"]},
+    {"id": "exit_b", "name": "B出口", "name_en": "Exit B", "type": "entrance", "x": 60, "y": 5, "aliases": ["侧门"]}
+  ]
+}

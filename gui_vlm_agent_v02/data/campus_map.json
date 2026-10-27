@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "name": "西北工业大学长安校区示意地图",
+    "crs": "local_meters",
+    "description": "用于GUI-VLM原型的简化校园POI与坐标（单位：米，原点在南门附近）"
+  },
+  "pois": [
+    {"id": "south_gate", "name": "南门", "name_en": "South Gate", "type": "entrance", "x": 0, "y": 0, "aliases": ["南入口", "校门"]},
+    {"id": "library", "name": "图书馆", "name_en": "Library", "type": "building", "x": 120, "y": 180, "aliases": ["图书室", "图书馆大楼"]},
+    {"id": "teaching_a", "name": "教学楼A", "name_en": "Teaching Building A", "type": "building", "x": 80, "y": 90, "aliases": ["A楼", "一号教学楼"]},
+    {"id": "teaching_b", "name": "教学楼B", "name_en": "Teaching Building B", "type": "building", "x": 160, "y": 95, "aliases": ["B楼", "二号教学楼"]},
+    {"id": "canteen", "name": "学生食堂", "name_en": "Canteen", "type": "amenity", "x": 40, "y": 140, "aliases": ["食堂", "餐厅"]},
+    {"id": "dorm_1", "name": "一号宿舍楼", "name_en": "Dormitory 1", "type": "dorm", "x": -60, "y": 200, "aliases": ["1号宿舍", "男生宿舍"]},
+    {"id": "gym", "name": "体育馆", "name_en": "Gymnasium", "type": "sports", "x": 200, "y": 220, "aliases": ["体育场馆", "球馆"]},
+    {"id": "lab_building", "name": "实验楼", "name_en": "Lab Building", "type": "building", "x": 250, "y": 150, "aliases": ["实验室", "科研楼"]},
+    {"id": "admin", "name": "行政楼", "name_en": "Admin Building", "type": "building", "x": 100, "y": 40, "aliases": ["办公楼", "行政中心"]},
+    {"id": "hospital", "name": "校医院", "name_en": "Campus Hospital", "type": "amenity", "x": -30, "y": 80, "aliases": ["医院", "医务室"]},
+    {"id": "playground", "name": "操场", "name_en": "Playground", "type": "sports", "x": 180, "y": 280, "aliases": ["田径场", "运动场"]},
+    {"id": "north_gate", "name": "北门", "name_en": "North Gate", "type": "entrance", "x": 100, "y": 350, "aliases": ["北入口"]},
+    {"id": "supermarket", "name": "校园超市", "name_en": "Campus Supermarket", "type": "amenity", "x": 30, "y": 110, "aliases": ["超市", "便利店"]},
+    {"id": "fountain", "name": "中心喷泉", "name_en": "Central Fountain", "type": "landmark", "x": 110, "y": 160, "aliases": ["喷泉", "广场中央"]}
+  ]
+}

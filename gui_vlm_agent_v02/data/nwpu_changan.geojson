@@ -1,0 +1,8421 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "name": "西北工业大学长安校区 · OSM公开数据待核实",
+    "crs": "WGS84",
+    "source": "https://www.openstreetmap.org/way/273391732",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "snapshot_at": "unknown",
+    "imported_at": "2026-10-27T07:27:53.151190+00:00",
+    "verified": false,
+    "scope": "boundary 273391732; roads selected by center inside boundary; incomplete relations omitted",
+    "official_reference": "https://peixun.nwpu.edu.cn/index/xydt.htm"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/177231713",
+      "properties": {
+        "id": "way/177231713",
+        "name": "西北工业大学自动化学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "internet_access": "yes",
+          "name": "西北工业大学自动化学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7629199,
+              34.030573
+            ],
+            [
+              108.7635693,
+              34.0305442
+            ],
+            [
+              108.7635809,
+              34.0307236
+            ],
+            [
+              108.7643516,
+              34.0306894
+            ],
+            [
+              108.7643114,
+              34.0300671
+            ],
+            [
+              108.7635596,
+              34.0301005
+            ],
+            [
+              108.7635716,
+              34.0302858
+            ],
+            [
+              108.7629033,
+              34.0303154
+            ],
+            [
+              108.7629199,
+              34.030573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177231719",
+      "properties": {
+        "id": "way/177231719",
+        "name": "西北工业大学电子信息学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "西北工业大学电子信息学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7631703,
+              34.0316281
+            ],
+            [
+              108.7639151,
+              34.0315909
+            ],
+            [
+              108.7639031,
+              34.0314259
+            ],
+            [
+              108.7644419,
+              34.031399
+            ],
+            [
+              108.7644216,
+              34.03112
+            ],
+            [
+              108.7639304,
+              34.0311445
+            ],
+            [
+              108.7639173,
+              34.0309638
+            ],
+            [
+              108.7631249,
+              34.0310033
+            ],
+            [
+              108.7631703,
+              34.0316281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177231720",
+      "properties": {
+        "id": "way/177231720",
+        "name": "西北工业大学理学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "西北工业大学理学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7628816,
+              34.0298624
+            ],
+            [
+              108.7636985,
+              34.0298379
+            ],
+            [
+              108.7636919,
+              34.029686
+            ],
+            [
+              108.7643839,
+              34.0296653
+            ],
+            [
+              108.7643718,
+              34.0293883
+            ],
+            [
+              108.7637595,
+              34.0294067
+            ],
+            [
+              108.7637514,
+              34.0292217
+            ],
+            [
+              108.7628548,
+              34.0292486
+            ],
+            [
+              108.7628816,
+              34.0298624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/273391732",
+      "properties": {
+        "id": "way/273391732",
+        "name": "西北工业大学(长安校区)",
+        "layer": "boundary",
+        "osm_tags": {
+          "addr:city": "西安市",
+          "addr:district": "长安区",
+          "addr:postcode": "710072",
+          "addr:province": "陕西省",
+          "amenity": "university",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "西北工业大学(长安校区)",
+          "website": "https://nwpu.edu.cn"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7546654,
+              34.0392238
+            ],
+            [
+              108.7546944,
+              34.0329248
+            ],
+            [
+              108.7546768,
+              34.0304044
+            ],
+            [
+              108.7546712,
+              34.0270177
+            ],
+            [
+              108.7547011,
+              34.0204043
+            ],
+            [
+              108.7603055,
+              34.0203548
+            ],
+            [
+              108.7603824,
+              34.0204618
+            ],
+            [
+              108.7605158,
+              34.0204138
+            ],
+            [
+              108.7628278,
+              34.0236896
+            ],
+            [
+              108.7640571,
+              34.0251433
+            ],
+            [
+              108.76451,
+              34.025607
+            ],
+            [
+              108.7646878,
+              34.0258727
+            ],
+            [
+              108.7647569,
+              34.0271166
+            ],
+            [
+              108.7633226,
+              34.0271793
+            ],
+            [
+              108.7632736,
+              34.0272772
+            ],
+            [
+              108.7630929,
+              34.0272788
+            ],
+            [
+              108.7628936,
+              34.0277614
+            ],
+            [
+              108.7627845,
+              34.0281034
+            ],
+            [
+              108.7626935,
+              34.028444
+            ],
+            [
+              108.7626432,
+              34.0287273
+            ],
+            [
+              108.7626208,
+              34.0289808
+            ],
+            [
+              108.7648759,
+              34.0288925
+            ],
+            [
+              108.7655314,
+              34.0391938
+            ],
+            [
+              108.765476,
+              34.0392427
+            ],
+            [
+              108.7615911,
+              34.039227
+            ],
+            [
+              108.7546654,
+              34.0392238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486014",
+      "properties": {
+        "id": "way/298486014",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7651769,
+            34.0316877
+          ],
+          [
+            108.7645785,
+            34.0316971
+          ],
+          [
+            108.7635221,
+            34.0317324
+          ],
+          [
+            108.7630508,
+            34.0317526
+          ],
+          [
+            108.7628719,
+            34.0317603
+          ],
+          [
+            108.7627235,
+            34.0317666
+          ],
+          [
+            108.7625109,
+            34.0320469
+          ],
+          [
+            108.762572,
+            34.032303
+          ],
+          [
+            108.7626628,
+            34.0323481
+          ],
+          [
+            108.7627786,
+            34.0324057
+          ],
+          [
+            108.7628884,
+            34.0324106
+          ],
+          [
+            108.7632881,
+            34.0324285
+          ],
+          [
+            108.7637238,
+            34.0324169
+          ],
+          [
+            108.7641418,
+            34.0324057
+          ],
+          [
+            108.7646561,
+            34.0323862
+          ],
+          [
+            108.7652197,
+            34.0323605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486015",
+      "properties": {
+        "id": "way/298486015",
+        "name": "银河路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "银河路",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7654432,
+            34.0355668
+          ],
+          [
+            108.7649367,
+            34.0355905
+          ],
+          [
+            108.7634383,
+            34.0356603
+          ],
+          [
+            108.7628767,
+            34.0356865
+          ],
+          [
+            108.7612564,
+            34.0357621
+          ],
+          [
+            108.7602735,
+            34.0358079
+          ],
+          [
+            108.7600189,
+            34.0358081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486016",
+      "properties": {
+        "id": "way/298486016",
+        "name": "银河路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "银河路",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7599851,
+            34.0356421
+          ],
+          [
+            108.7602567,
+            34.0355914
+          ],
+          [
+            108.7611635,
+            34.0355549
+          ],
+          [
+            108.7630417,
+            34.0354792
+          ],
+          [
+            108.7649221,
+            34.0354034
+          ],
+          [
+            108.7654304,
+            34.0353829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486017",
+      "properties": {
+        "id": "way/298486017",
+        "name": "长安大道",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "长安大道"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7595483,
+            34.0390032
+          ],
+          [
+            108.759881,
+            34.0374605
+          ],
+          [
+            108.7598989,
+            34.0373013
+          ],
+          [
+            108.7599812,
+            34.0365706
+          ],
+          [
+            108.7600189,
+            34.0358081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486018",
+      "properties": {
+        "id": "way/298486018",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "oneway": "no"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7572078,
+            34.0273213
+          ],
+          [
+            108.7574098,
+            34.0273126
+          ],
+          [
+            108.7596448,
+            34.0272139
+          ],
+          [
+            108.761444,
+            34.0271416
+          ],
+          [
+            108.7633227,
+            34.0270523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486019",
+      "properties": {
+        "id": "way/298486019",
+        "name": "长安大道",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "长安大道",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7600189,
+            34.0358081
+          ],
+          [
+            108.7599851,
+            34.0356421
+          ],
+          [
+            108.760173,
+            34.0346131
+          ],
+          [
+            108.7589594,
+            34.0346754
+          ],
+          [
+            108.7579432,
+            34.0347275
+          ],
+          [
+            108.7577221,
+            34.0347388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486020",
+      "properties": {
+        "id": "way/298486020",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7645785,
+            34.0316971
+          ],
+          [
+            108.7646391,
+            34.0314537
+          ],
+          [
+            108.7645423,
+            34.0289765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486022",
+      "properties": {
+        "id": "way/298486022",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7597604,
+            34.0204552
+          ],
+          [
+            108.7607626,
+            34.021846
+          ],
+          [
+            108.761179,
+            34.0224393
+          ],
+          [
+            108.7620281,
+            34.0236492
+          ],
+          [
+            108.762085,
+            34.0237262
+          ],
+          [
+            108.7627551,
+            34.0246334
+          ],
+          [
+            108.7640564,
+            34.0260519
+          ],
+          [
+            108.7633227,
+            34.0270523
+          ],
+          [
+            108.763183,
+            34.0272352
+          ],
+          [
+            108.7629957,
+            34.0272491
+          ],
+          [
+            108.7628791,
+            34.027618
+          ],
+          [
+            108.7625724,
+            34.0286594
+          ],
+          [
+            108.7625295,
+            34.0290664
+          ],
+          [
+            108.7625165,
+            34.0291913
+          ],
+          [
+            108.7625765,
+            34.0298221
+          ],
+          [
+            108.7627922,
+            34.0305721
+          ],
+          [
+            108.763008,
+            34.0312079
+          ],
+          [
+            108.7630508,
+            34.0317526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486023",
+      "properties": {
+        "id": "way/298486023",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7646561,
+            34.0323862
+          ],
+          [
+            108.7646631,
+            34.0325117
+          ],
+          [
+            108.7647372,
+            34.0326193
+          ],
+          [
+            108.7648001,
+            34.0338404
+          ],
+          [
+            108.7649221,
+            34.0354034
+          ],
+          [
+            108.7649295,
+            34.0354977
+          ],
+          [
+            108.7649367,
+            34.0355905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486024",
+      "properties": {
+        "id": "way/298486024",
+        "name": "巡航北路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "巡航北路"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7651614,
+            34.0390277
+          ],
+          [
+            108.76367,
+            34.0390413
+          ],
+          [
+            108.7608951,
+            34.0390156
+          ],
+          [
+            108.7601355,
+            34.0390086
+          ],
+          [
+            108.7595483,
+            34.0390032
+          ],
+          [
+            108.7581434,
+            34.0390115
+          ],
+          [
+            108.7570941,
+            34.0390177
+          ],
+          [
+            108.7563061,
+            34.0390224
+          ],
+          [
+            108.7548317,
+            34.0390311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486025",
+      "properties": {
+        "id": "way/298486025",
+        "name": "银河路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "银河路"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7548096,
+            34.0358836
+          ],
+          [
+            108.7560394,
+            34.0358169
+          ],
+          [
+            108.7576031,
+            34.0357321
+          ],
+          [
+            108.7587252,
+            34.0356712
+          ],
+          [
+            108.7599851,
+            34.0356421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486026",
+      "properties": {
+        "id": "way/298486026",
+        "name": "昆仑路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "昆仑路"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7563061,
+            34.0390224
+          ],
+          [
+            108.7562396,
+            34.0382232
+          ],
+          [
+            108.7560394,
+            34.0358169
+          ],
+          [
+            108.755987,
+            34.0348163
+          ],
+          [
+            108.7559803,
+            34.0346892
+          ],
+          [
+            108.75591,
+            34.0329307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486027",
+      "properties": {
+        "id": "way/298486027",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7548025,
+            34.0348692
+          ],
+          [
+            108.755987,
+            34.0348163
+          ],
+          [
+            108.7577221,
+            34.0347388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486028",
+      "properties": {
+        "id": "way/298486028",
+        "name": "泰山路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "泰山路"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7628884,
+            34.0324106
+          ],
+          [
+            108.7626324,
+            34.0328957
+          ],
+          [
+            108.7618046,
+            34.0336977
+          ],
+          [
+            108.7612799,
+            34.034432
+          ],
+          [
+            108.76114,
+            34.035147
+          ],
+          [
+            108.7611635,
+            34.0355549
+          ],
+          [
+            108.7612564,
+            34.0357621
+          ],
+          [
+            108.7613509,
+            34.0366244
+          ],
+          [
+            108.7613732,
+            34.0368282
+          ],
+          [
+            108.7613474,
+            34.0372049
+          ],
+          [
+            108.7613149,
+            34.0376785
+          ],
+          [
+            108.7610351,
+            34.0386833
+          ],
+          [
+            108.7608951,
+            34.0390156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486029",
+      "properties": {
+        "id": "way/298486029",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.76367,
+            34.0390413
+          ],
+          [
+            108.7634965,
+            34.0365093
+          ],
+          [
+            108.7634383,
+            34.0356603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486030",
+      "properties": {
+        "id": "way/298486030",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7548265,
+            34.0382873
+          ],
+          [
+            108.7562396,
+            34.0382232
+          ],
+          [
+            108.7572241,
+            34.0381785
+          ],
+          [
+            108.7582368,
+            34.0381326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486031",
+      "properties": {
+        "id": "way/298486031",
+        "name": "华山路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "华山路"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7570941,
+            34.0390177
+          ],
+          [
+            108.7572241,
+            34.0381785
+          ],
+          [
+            108.7574575,
+            34.0366716
+          ],
+          [
+            108.7576031,
+            34.0357321
+          ],
+          [
+            108.7577221,
+            34.0347388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486032",
+      "properties": {
+        "id": "way/298486032",
+        "name": "嵩山路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "嵩山路"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7581434,
+            34.0390115
+          ],
+          [
+            108.7582368,
+            34.0381326
+          ],
+          [
+            108.7585353,
+            34.0366285
+          ],
+          [
+            108.7587252,
+            34.0356712
+          ],
+          [
+            108.7588582,
+            34.0353712
+          ],
+          [
+            108.7589594,
+            34.0346754
+          ],
+          [
+            108.7589944,
+            34.034466
+          ],
+          [
+            108.7590344,
+            34.0337602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486033",
+      "properties": {
+        "id": "way/298486033",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7574575,
+            34.0366716
+          ],
+          [
+            108.7585353,
+            34.0366285
+          ],
+          [
+            108.7599812,
+            34.0365706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486034",
+      "properties": {
+        "id": "way/298486034",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7598989,
+            34.0373013
+          ],
+          [
+            108.7613474,
+            34.0372049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298486035",
+      "properties": {
+        "id": "way/298486035",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7613509,
+            34.0366244
+          ],
+          [
+            108.7625961,
+            34.0365576
+          ],
+          [
+            108.7634965,
+            34.0365093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335077349",
+      "properties": {
+        "id": "way/335077349",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7547893,
+            34.0329893
+          ],
+          [
+            108.75591,
+            34.0329307
+          ],
+          [
+            108.7575916,
+            34.0328426
+          ],
+          [
+            108.7578263,
+            34.0328303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335077351",
+      "properties": {
+        "id": "way/335077351",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7548317,
+            34.0390311
+          ],
+          [
+            108.7548265,
+            34.0382873
+          ],
+          [
+            108.7548096,
+            34.0358836
+          ],
+          [
+            108.7548025,
+            34.0348692
+          ],
+          [
+            108.7547893,
+            34.0329893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977203",
+      "properties": {
+        "id": "way/362977203",
+        "name": "翱翔体育馆",
+        "layer": "building",
+        "osm_tags": {
+          "building": "yes",
+          "leisure": "sports_centre",
+          "name": "翱翔体育馆"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7641957,
+              34.0362769
+            ],
+            [
+              108.7638268,
+              34.0363234
+            ],
+            [
+              108.7637568,
+              34.0366562
+            ],
+            [
+              108.7637614,
+              34.0368148
+            ],
+            [
+              108.7638595,
+              34.0371244
+            ],
+            [
+              108.7639576,
+              34.0371863
+            ],
+            [
+              108.7642705,
+              34.0372057
+            ],
+            [
+              108.7645086,
+              34.0371709
+            ],
+            [
+              108.7645834,
+              34.0371322
+            ],
+            [
+              108.7646487,
+              34.0368806
+            ],
+            [
+              108.7646394,
+              34.0366252
+            ],
+            [
+              108.7645647,
+              34.0363272
+            ],
+            [
+              108.7641957,
+              34.0362769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977204",
+      "properties": {
+        "id": "way/362977204",
+        "name": "云天苑操场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "云天苑操场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7650531,
+              34.0389563
+            ],
+            [
+              108.7649803,
+              34.0373169
+            ],
+            [
+              108.7636525,
+              34.0373573
+            ],
+            [
+              108.763725,
+              34.0389967
+            ],
+            [
+              108.7650531,
+              34.0389563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977205",
+      "properties": {
+        "id": "way/362977205",
+        "name": "云天苑餐厅",
+        "layer": "building",
+        "osm_tags": {
+          "amenity": "restaurant",
+          "building": "yes",
+          "name": "云天苑餐厅"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.762626,
+              34.0363869
+            ],
+            [
+              108.7615906,
+              34.0364222
+            ],
+            [
+              108.7615867,
+              34.0363441
+            ],
+            [
+              108.7614995,
+              34.0363471
+            ],
+            [
+              108.7614933,
+              34.0362213
+            ],
+            [
+              108.7615735,
+              34.0362186
+            ],
+            [
+              108.7615597,
+              34.0359366
+            ],
+            [
+              108.7621304,
+              34.0359173
+            ],
+            [
+              108.7621341,
+              34.0359917
+            ],
+            [
+              108.7621976,
+              34.0359896
+            ],
+            [
+              108.7622116,
+              34.0359586
+            ],
+            [
+              108.7623097,
+              34.0358812
+            ],
+            [
+              108.7624171,
+              34.0358425
+            ],
+            [
+              108.7625478,
+              34.0358386
+            ],
+            [
+              108.7626272,
+              34.0358619
+            ],
+            [
+              108.7626739,
+              34.0359083
+            ],
+            [
+              108.7627066,
+              34.0359818
+            ],
+            [
+              108.7626833,
+              34.0360708
+            ],
+            [
+              108.7626132,
+              34.0361289
+            ],
+            [
+              108.762626,
+              34.0363869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977206",
+      "properties": {
+        "id": "way/362977206",
+        "name": "云天苑B座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "云天苑B座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7615039,
+              34.037077
+            ],
+            [
+              108.7620676,
+              34.0370544
+            ],
+            [
+              108.7620637,
+              34.0369868
+            ],
+            [
+              108.7619752,
+              34.0369904
+            ],
+            [
+              108.7619666,
+              34.0368436
+            ],
+            [
+              108.7620421,
+              34.0368406
+            ],
+            [
+              108.7620394,
+              34.0367954
+            ],
+            [
+              108.7614653,
+              34.0368184
+            ],
+            [
+              108.7614569,
+              34.0366746
+            ],
+            [
+              108.7622004,
+              34.0366449
+            ],
+            [
+              108.7622292,
+              34.0371402
+            ],
+            [
+              108.7615092,
+              34.037169
+            ],
+            [
+              108.7615039,
+              34.037077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977207",
+      "properties": {
+        "id": "way/362977207",
+        "name": "云天苑D座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "云天苑D座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7614183,
+              34.0378128
+            ],
+            [
+              108.7614276,
+              34.0379666
+            ],
+            [
+              108.7622225,
+              34.0379335
+            ],
+            [
+              108.7621898,
+              34.0373942
+            ],
+            [
+              108.7613919,
+              34.0374274
+            ],
+            [
+              108.7614006,
+              34.0375713
+            ],
+            [
+              108.7619954,
+              34.0375465
+            ],
+            [
+              108.76201,
+              34.0377882
+            ],
+            [
+              108.7614183,
+              34.0378128
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977208",
+      "properties": {
+        "id": "way/362977208",
+        "name": "云天苑F座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "云天苑F座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7612645,
+              34.0387915
+            ],
+            [
+              108.762243,
+              34.0387478
+            ],
+            [
+              108.7622023,
+              34.0381219
+            ],
+            [
+              108.7612274,
+              34.0381653
+            ],
+            [
+              108.7612397,
+              34.0383542
+            ],
+            [
+              108.7619901,
+              34.0383207
+            ],
+            [
+              108.7620055,
+              34.0385583
+            ],
+            [
+              108.7612515,
+              34.038592
+            ],
+            [
+              108.7612645,
+              34.0387915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977209",
+      "properties": {
+        "id": "way/362977209",
+        "name": "云天苑A座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "云天苑A座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7626219,
+              34.037379
+            ],
+            [
+              108.7625868,
+              34.0368422
+            ],
+            [
+              108.763364,
+              34.0368073
+            ],
+            [
+              108.7633738,
+              34.036956
+            ],
+            [
+              108.7628015,
+              34.0369817
+            ],
+            [
+              108.7628157,
+              34.0371989
+            ],
+            [
+              108.7634043,
+              34.0371725
+            ],
+            [
+              108.7634155,
+              34.0373434
+            ],
+            [
+              108.7626219,
+              34.037379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977210",
+      "properties": {
+        "id": "way/362977210",
+        "name": "云天苑C座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "云天苑C座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7626349,
+              34.0381351
+            ],
+            [
+              108.7625905,
+              34.0376193
+            ],
+            [
+              108.7634154,
+              34.0375705
+            ],
+            [
+              108.7634285,
+              34.0377218
+            ],
+            [
+              108.7627506,
+              34.0377619
+            ],
+            [
+              108.7627688,
+              34.0379728
+            ],
+            [
+              108.7634091,
+              34.0379349
+            ],
+            [
+              108.7634223,
+              34.0380884
+            ],
+            [
+              108.7626349,
+              34.0381351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977211",
+      "properties": {
+        "id": "way/362977211",
+        "name": "云天苑E座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "云天苑E座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7624786,
+              34.0389502
+            ],
+            [
+              108.7624486,
+              34.0383198
+            ],
+            [
+              108.7634518,
+              34.0382869
+            ],
+            [
+              108.7634618,
+              34.0384966
+            ],
+            [
+              108.7626491,
+              34.0385232
+            ],
+            [
+              108.7626602,
+              34.0387561
+            ],
+            [
+              108.7634527,
+              34.0387301
+            ],
+            [
+              108.7634617,
+              34.038918
+            ],
+            [
+              108.7624786,
+              34.0389502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362977213",
+      "properties": {
+        "id": "way/362977213",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7603818,
+            34.0346133
+          ],
+          [
+            108.760173,
+            34.0346131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081232",
+      "properties": {
+        "id": "way/363081232",
+        "name": "星天苑南餐厅",
+        "layer": "building",
+        "osm_tags": {
+          "building": "retail",
+          "name": "星天苑南餐厅"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7576683,
+              34.0364818
+            ],
+            [
+              108.7582531,
+              34.0364573
+            ],
+            [
+              108.7583094,
+              34.0359216
+            ],
+            [
+              108.7577971,
+              34.0359416
+            ],
+            [
+              108.7576496,
+              34.036055
+            ],
+            [
+              108.7576683,
+              34.0364818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081234",
+      "properties": {
+        "id": "way/363081234",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "park"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7572931,
+              34.0381151
+            ],
+            [
+              108.7581991,
+              34.0380828
+            ],
+            [
+              108.758461,
+              34.0366839
+            ],
+            [
+              108.7575125,
+              34.0367279
+            ],
+            [
+              108.7572931,
+              34.0381151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081236",
+      "properties": {
+        "id": "way/363081236",
+        "name": "星天苑北餐厅",
+        "layer": "building",
+        "osm_tags": {
+          "amenity": "restaurant",
+          "building": "yes",
+          "name": "星天苑北餐厅"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7580144,
+              34.0387271
+            ],
+            [
+              108.7572817,
+              34.0387571
+            ],
+            [
+              108.7572616,
+              34.0384196
+            ],
+            [
+              108.7579942,
+              34.0383896
+            ],
+            [
+              108.7580144,
+              34.0387271
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081238",
+      "properties": {
+        "id": "way/363081238",
+        "name": "星天苑综合服务大楼",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "星天苑综合服务大楼"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7566689,
+              34.0385038
+            ],
+            [
+              108.7566628,
+              34.038357
+            ],
+            [
+              108.7570519,
+              34.0383459
+            ],
+            [
+              108.7570592,
+              34.0385224
+            ],
+            [
+              108.7569592,
+              34.0385252
+            ],
+            [
+              108.7569738,
+              34.0388769
+            ],
+            [
+              108.7566253,
+              34.0388868
+            ],
+            [
+              108.7566204,
+              34.038769
+            ],
+            [
+              108.7567944,
+              34.0387641
+            ],
+            [
+              108.7567834,
+              34.0385005
+            ],
+            [
+              108.7566689,
+              34.0385038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081241",
+      "properties": {
+        "id": "way/363081241",
+        "name": "星天苑H座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑H座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7559844,
+              34.0389138
+            ],
+            [
+              108.7559816,
+              34.0387841
+            ],
+            [
+              108.7555145,
+              34.038791
+            ],
+            [
+              108.7555088,
+              34.0385226
+            ],
+            [
+              108.7559799,
+              34.0385157
+            ],
+            [
+              108.7559766,
+              34.0383635
+            ],
+            [
+              108.754888,
+              34.0383795
+            ],
+            [
+              108.7548915,
+              34.0385452
+            ],
+            [
+              108.7553015,
+              34.0385392
+            ],
+            [
+              108.7553064,
+              34.0387698
+            ],
+            [
+              108.7548876,
+              34.038776
+            ],
+            [
+              108.7548909,
+              34.0389299
+            ],
+            [
+              108.7559844,
+              34.0389138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081245",
+      "properties": {
+        "id": "way/363081245",
+        "name": "",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7563521,
+              34.0389451
+            ],
+            [
+              108.7565552,
+              34.0389418
+            ],
+            [
+              108.7565409,
+              34.0383272
+            ],
+            [
+              108.7563378,
+              34.0383304
+            ],
+            [
+              108.7563521,
+              34.0389451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081247",
+      "properties": {
+        "id": "way/363081247",
+        "name": "星天苑F座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑F座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7562982,
+              34.0379435
+            ],
+            [
+              108.7568034,
+              34.0379217
+            ],
+            [
+              108.756788,
+              34.037677
+            ],
+            [
+              108.7562475,
+              34.0377004
+            ],
+            [
+              108.7562387,
+              34.0375617
+            ],
+            [
+              108.7569923,
+              34.037529
+            ],
+            [
+              108.7570252,
+              34.0380505
+            ],
+            [
+              108.7563069,
+              34.0380816
+            ],
+            [
+              108.7562982,
+              34.0379435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081250",
+      "properties": {
+        "id": "way/363081250",
+        "name": "星天苑D座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑D座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7562978,
+              34.0371797
+            ],
+            [
+              108.7569129,
+              34.0371519
+            ],
+            [
+              108.7568974,
+              34.0369161
+            ],
+            [
+              108.756268,
+              34.0369446
+            ],
+            [
+              108.7562562,
+              34.0367666
+            ],
+            [
+              108.7570608,
+              34.0367303
+            ],
+            [
+              108.7570983,
+              34.0372987
+            ],
+            [
+              108.756308,
+              34.0373344
+            ],
+            [
+              108.7562978,
+              34.0371797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081253",
+      "properties": {
+        "id": "way/363081253",
+        "name": "星天苑B座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑B座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7562402,
+              34.0363979
+            ],
+            [
+              108.7569414,
+              34.0363537
+            ],
+            [
+              108.7569211,
+              34.0361317
+            ],
+            [
+              108.7561872,
+              34.0361779
+            ],
+            [
+              108.7561698,
+              34.0359891
+            ],
+            [
+              108.7571245,
+              34.035929
+            ],
+            [
+              108.7571772,
+              34.0365038
+            ],
+            [
+              108.7562553,
+              34.0365619
+            ],
+            [
+              108.7562402,
+              34.0363979
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081256",
+      "properties": {
+        "id": "way/363081256",
+        "name": "星天苑G座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑G座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7586462,
+              34.0387939
+            ],
+            [
+              108.7594238,
+              34.0387501
+            ],
+            [
+              108.7594113,
+              34.0385979
+            ],
+            [
+              108.758777,
+              34.0386337
+            ],
+            [
+              108.7587586,
+              34.0384094
+            ],
+            [
+              108.7594121,
+              34.0383726
+            ],
+            [
+              108.759399,
+              34.0382126
+            ],
+            [
+              108.758601,
+              34.0382576
+            ],
+            [
+              108.7586148,
+              34.0384262
+            ],
+            [
+              108.758548,
+              34.03843
+            ],
+            [
+              108.7585618,
+              34.0385985
+            ],
+            [
+              108.7586299,
+              34.0385947
+            ],
+            [
+              108.7586462,
+              34.0387939
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081259",
+      "properties": {
+        "id": "way/363081259",
+        "name": "星天苑E座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑E座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7586728,
+              34.0380777
+            ],
+            [
+              108.7586302,
+              34.0375489
+            ],
+            [
+              108.7594455,
+              34.0375037
+            ],
+            [
+              108.7594578,
+              34.0376568
+            ],
+            [
+              108.7588389,
+              34.0376911
+            ],
+            [
+              108.7588551,
+              34.0378929
+            ],
+            [
+              108.7594448,
+              34.0378602
+            ],
+            [
+              108.7594588,
+              34.0380341
+            ],
+            [
+              108.7586728,
+              34.0380777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081262",
+      "properties": {
+        "id": "way/363081262",
+        "name": "星天苑C座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑C座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.75893,
+              34.0371501
+            ],
+            [
+              108.7595812,
+              34.0371237
+            ],
+            [
+              108.7595916,
+              34.0372997
+            ],
+            [
+              108.7587659,
+              34.0373332
+            ],
+            [
+              108.7587313,
+              34.0367475
+            ],
+            [
+              108.759539,
+              34.0367147
+            ],
+            [
+              108.7595493,
+              34.0368901
+            ],
+            [
+              108.7589161,
+              34.0369157
+            ],
+            [
+              108.75893,
+              34.0371501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081266",
+      "properties": {
+        "id": "way/363081266",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "park"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7598232,
+              34.0380149
+            ],
+            [
+              108.7599399,
+              34.0373531
+            ],
+            [
+              108.7612849,
+              34.0372757
+            ],
+            [
+              108.7612335,
+              34.0376782
+            ],
+            [
+              108.7611308,
+              34.0380149
+            ],
+            [
+              108.7598232,
+              34.0380149
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081268",
+      "properties": {
+        "id": "way/363081268",
+        "name": "星天苑A座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "dormitory",
+          "name": "星天苑A座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7589434,
+              34.0362275
+            ],
+            [
+              108.7596408,
+              34.0362028
+            ],
+            [
+              108.7596501,
+              34.0363837
+            ],
+            [
+              108.7587541,
+              34.0364154
+            ],
+            [
+              108.7587247,
+              34.0358453
+            ],
+            [
+              108.7596375,
+              34.035813
+            ],
+            [
+              108.759648,
+              34.0360172
+            ],
+            [
+              108.7589339,
+              34.0360425
+            ],
+            [
+              108.7589434,
+              34.0362275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081272",
+      "properties": {
+        "id": "way/363081272",
+        "name": "工程实践训练中心",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "工程实践训练中心"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7550739,
+              34.0365629
+            ],
+            [
+              108.7550546,
+              34.0361183
+            ],
+            [
+              108.7555711,
+              34.0361029
+            ],
+            [
+              108.7555667,
+              34.0360017
+            ],
+            [
+              108.7558381,
+              34.0359936
+            ],
+            [
+              108.755858,
+              34.0364517
+            ],
+            [
+              108.7553082,
+              34.0364681
+            ],
+            [
+              108.755312,
+              34.0365558
+            ],
+            [
+              108.7550739,
+              34.0365629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081274",
+      "properties": {
+        "id": "way/363081274",
+        "name": "数字化大楼",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "数字化大楼"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7577665,
+              34.0356353
+            ],
+            [
+              108.7578194,
+              34.035103
+            ],
+            [
+              108.7581649,
+              34.0350929
+            ],
+            [
+              108.7582015,
+              34.0348267
+            ],
+            [
+              108.7587829,
+              34.0347863
+            ],
+            [
+              108.7587626,
+              34.0349547
+            ],
+            [
+              108.7588195,
+              34.0349851
+            ],
+            [
+              108.7588317,
+              34.0350491
+            ],
+            [
+              108.7587951,
+              34.0350861
+            ],
+            [
+              108.7587626,
+              34.0350996
+            ],
+            [
+              108.7587341,
+              34.0353523
+            ],
+            [
+              108.758604,
+              34.035359
+            ],
+            [
+              108.7586081,
+              34.0353186
+            ],
+            [
+              108.7584373,
+              34.0353152
+            ],
+            [
+              108.7583885,
+              34.035605
+            ],
+            [
+              108.7577665,
+              34.0356353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081276",
+      "properties": {
+        "id": "way/363081276",
+        "name": "星天苑足球场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "星天苑足球场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7548922,
+              34.0358206
+            ],
+            [
+              108.7559818,
+              34.0357835
+            ],
+            [
+              108.7559208,
+              34.0348773
+            ],
+            [
+              108.75488,
+              34.034921
+            ],
+            [
+              108.7548922,
+              34.0358206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081277",
+      "properties": {
+        "id": "way/363081277",
+        "name": "星天苑排球场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "星天苑排球场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7561363,
+              34.0357633
+            ],
+            [
+              108.7560997,
+              34.0354904
+            ],
+            [
+              108.7575429,
+              34.0354331
+            ],
+            [
+              108.7575063,
+              34.0356959
+            ],
+            [
+              108.7561363,
+              34.0357633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081278",
+      "properties": {
+        "id": "way/363081278",
+        "name": "星天苑篮球场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "星天苑篮球场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7560997,
+              34.0354904
+            ],
+            [
+              108.7560672,
+              34.0348975
+            ],
+            [
+              108.757608,
+              34.0348031
+            ],
+            [
+              108.7575429,
+              34.0354331
+            ],
+            [
+              108.7560997,
+              34.0354904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081279",
+      "properties": {
+        "id": "way/363081279",
+        "name": "星天苑操场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "星天苑操场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7571922,
+              34.0346582
+            ],
+            [
+              108.7560849,
+              34.0347087
+            ],
+            [
+              108.7559778,
+              34.0329758
+            ],
+            [
+              108.7570787,
+              34.0329272
+            ],
+            [
+              108.7571336,
+              34.0337693
+            ],
+            [
+              108.7571922,
+              34.0346582
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081280",
+      "properties": {
+        "id": "way/363081280",
+        "name": "星天苑羽毛球场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "星天苑羽毛球场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7571922,
+              34.0346582
+            ],
+            [
+              108.757606,
+              34.0346391
+            ],
+            [
+              108.7575458,
+              34.0337508
+            ],
+            [
+              108.7571336,
+              34.0337693
+            ],
+            [
+              108.7571922,
+              34.0346582
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081281",
+      "properties": {
+        "id": "way/363081281",
+        "name": "星天苑网球场",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch",
+          "name": "星天苑网球场"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7575458,
+              34.0337508
+            ],
+            [
+              108.7574909,
+              34.0329087
+            ],
+            [
+              108.7570787,
+              34.0329272
+            ],
+            [
+              108.7571336,
+              34.0337693
+            ],
+            [
+              108.7575458,
+              34.0337508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081283",
+      "properties": {
+        "id": "way/363081283",
+        "name": "翱翔游泳馆",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "stadium",
+          "name": "翱翔游泳馆"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.756649,
+              34.0327903
+            ],
+            [
+              108.7566505,
+              34.0326702
+            ],
+            [
+              108.7565505,
+              34.0326351
+            ],
+            [
+              108.756561,
+              34.0325465
+            ],
+            [
+              108.7565674,
+              34.0324354
+            ],
+            [
+              108.7566009,
+              34.032321
+            ],
+            [
+              108.7566815,
+              34.0322263
+            ],
+            [
+              108.7568198,
+              34.0321561
+            ],
+            [
+              108.7569875,
+              34.0321361
+            ],
+            [
+              108.757174,
+              34.0321613
+            ],
+            [
+              108.7573197,
+              34.0322427
+            ],
+            [
+              108.757426,
+              34.0323537
+            ],
+            [
+              108.7574661,
+              34.0324978
+            ],
+            [
+              108.7574469,
+              34.0326439
+            ],
+            [
+              108.7573821,
+              34.0326502
+            ],
+            [
+              108.7573861,
+              34.0327661
+            ],
+            [
+              108.756649,
+              34.0327903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081284",
+      "properties": {
+        "id": "way/363081284",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "park"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7588863,
+              34.0356198
+            ],
+            [
+              108.7590204,
+              34.0354553
+            ],
+            [
+              108.7591438,
+              34.0347263
+            ],
+            [
+              108.760088,
+              34.0346685
+            ],
+            [
+              108.7599324,
+              34.0355931
+            ],
+            [
+              108.7588863,
+              34.0356198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081285",
+      "properties": {
+        "id": "way/363081285",
+        "name": "实验大楼",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "实验大楼"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.759058,
+              34.0320723
+            ],
+            [
+              108.7590526,
+              34.0318456
+            ],
+            [
+              108.7584733,
+              34.0318767
+            ],
+            [
+              108.7584572,
+              34.0318144
+            ],
+            [
+              108.7585376,
+              34.0317611
+            ],
+            [
+              108.7585645,
+              34.0316988
+            ],
+            [
+              108.7585591,
+              34.0316277
+            ],
+            [
+              108.7585162,
+              34.0315477
+            ],
+            [
+              108.7584143,
+              34.031521
+            ],
+            [
+              108.7583982,
+              34.0314632
+            ],
+            [
+              108.7590097,
+              34.0314321
+            ],
+            [
+              108.758999,
+              34.0312098
+            ],
+            [
+              108.7581675,
+              34.0312454
+            ],
+            [
+              108.7581729,
+              34.0314543
+            ],
+            [
+              108.7578027,
+              34.0314632
+            ],
+            [
+              108.7578081,
+              34.0318856
+            ],
+            [
+              108.7582211,
+              34.0318811
+            ],
+            [
+              108.7582372,
+              34.032099
+            ],
+            [
+              108.759058,
+              34.0320723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363081286",
+      "properties": {
+        "id": "way/363081286",
+        "name": "启真湖",
+        "layer": "area",
+        "osm_tags": {
+          "name": "启真湖",
+          "natural": "water",
+          "water": "river"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7607968,
+              34.0354668
+            ],
+            [
+              108.760737,
+              34.0354464
+            ],
+            [
+              108.7606405,
+              34.0354998
+            ],
+            [
+              108.7605813,
+              34.0355241
+            ],
+            [
+              108.7605447,
+              34.0355308
+            ],
+            [
+              108.7605142,
+              34.0355207
+            ],
+            [
+              108.7604837,
+              34.0354803
+            ],
+            [
+              108.7604736,
+              34.0354399
+            ],
+            [
+              108.7604146,
+              34.035391
+            ],
+            [
+              108.7603983,
+              34.0353742
+            ],
+            [
+              108.7603983,
+              34.0353539
+            ],
+            [
+              108.7604268,
+              34.0353118
+            ],
+            [
+              108.7605093,
+              34.0351987
+            ],
+            [
+              108.760559,
+              34.0351769
+            ],
+            [
+              108.7606145,
+              34.0351627
+            ],
+            [
+              108.7606463,
+              34.0351444
+            ],
+            [
+              108.7606646,
+              34.0351249
+            ],
+            [
+              108.7606789,
+              34.0349328
+            ],
+            [
+              108.7606931,
+              34.0347981
+            ],
+            [
+              108.7607073,
+              34.0347324
+            ],
+            [
+              108.7607317,
+              34.0346852
+            ],
+            [
+              108.7607683,
+              34.0346465
+            ],
+            [
+              108.7607947,
+              34.034601
+            ],
+            [
+              108.7608029,
+              34.0345285
+            ],
+            [
+              108.7607988,
+              34.0344494
+            ],
+            [
+              108.7607947,
+              34.0343466
+            ],
+            [
+              108.7608171,
+              34.0342253
+            ],
+            [
+              108.760813,
+              34.0341967
+            ],
+            [
+              108.7607907,
+              34.0341377
+            ],
+            [
+              108.7607744,
+              34.0340906
+            ],
+            [
+              108.7607703,
+              34.0340383
+            ],
+            [
+              108.7607907,
+              34.0339693
+            ],
+            [
+              108.760874,
+              34.0338817
+            ],
+            [
+              108.7608964,
+              34.0338109
+            ],
+            [
+              108.7608781,
+              34.0336728
+            ],
+            [
+              108.760876,
+              34.0335111
+            ],
+            [
+              108.760876,
+              34.0334555
+            ],
+            [
+              108.7608821,
+              34.0333898
+            ],
+            [
+              108.7608821,
+              34.0333157
+            ],
+            [
+              108.7609187,
+              34.0332736
+            ],
+            [
+              108.7609573,
+              34.0332517
+            ],
+            [
+              108.7610163,
+              34.0332752
+            ],
+            [
+              108.7611667,
+              34.0333005
+            ],
+            [
+              108.761202,
+              34.0332598
+            ],
+            [
+              108.7612415,
+              34.0332181
+            ],
+            [
+              108.7612397,
+              34.0331455
+            ],
+            [
+              108.7613736,
+              34.0331459
+            ],
+            [
+              108.7614631,
+              34.0331504
+            ],
+            [
+              108.7615309,
+              34.0332298
+            ],
+            [
+              108.7615489,
+              34.0332803
+            ],
+            [
+              108.7615529,
+              34.033351
+            ],
+            [
+              108.7615103,
+              34.033437
+            ],
+            [
+              108.7614452,
+              34.0335279
+            ],
+            [
+              108.7613456,
+              34.0336391
+            ],
+            [
+              108.7612643,
+              34.0337065
+            ],
+            [
+              108.7611322,
+              34.03388
+            ],
+            [
+              108.7610407,
+              34.0340063
+            ],
+            [
+              108.7609899,
+              34.0341242
+            ],
+            [
+              108.7609472,
+              34.0341933
+            ],
+            [
+              108.7609452,
+              34.0343095
+            ],
+            [
+              108.7609594,
+              34.0344258
+            ],
+            [
+              108.7609553,
+              34.0344578
+            ],
+            [
+              108.760998,
+              34.034638
+            ],
+            [
+              108.7609878,
+              34.0347105
+            ],
+            [
+              108.760937,
+              34.0347795
+            ],
+            [
+              108.7608903,
+              34.0348115
+            ],
+            [
+              108.760872,
+              34.034852
+            ],
+            [
+              108.7608659,
+              34.0349311
+            ],
+            [
+              108.7608638,
+              34.0350187
+            ],
+            [
+              108.7608293,
+              34.0350642
+            ],
+            [
+              108.7608334,
+              34.0351097
+            ],
+            [
+              108.7608801,
+              34.0351737
+            ],
+            [
+              108.7609269,
+              34.0352091
+            ],
+            [
+              108.7609391,
+              34.0353219
+            ],
+            [
+              108.7609472,
+              34.0354011
+            ],
+            [
+              108.7609208,
+              34.03545
+            ],
+            [
+              108.760872,
+              34.0354685
+            ],
+            [
+              108.7607968,
+              34.0354668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091532",
+      "properties": {
+        "id": "way/363091532",
+        "name": "教学西楼C座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学西楼C座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7590831,
+              34.0336703
+            ],
+            [
+              108.7590758,
+              34.0334717
+            ],
+            [
+              108.7596402,
+              34.0334503
+            ],
+            [
+              108.7596265,
+              34.0331536
+            ],
+            [
+              108.7590704,
+              34.0331582
+            ],
+            [
+              108.7590644,
+              34.0329954
+            ],
+            [
+              108.7597412,
+              34.032962
+            ],
+            [
+              108.7597474,
+              34.0330971
+            ],
+            [
+              108.7601596,
+              34.0330841
+            ],
+            [
+              108.7601762,
+              34.0334452
+            ],
+            [
+              108.7598079,
+              34.0334568
+            ],
+            [
+              108.7598147,
+              34.0336047
+            ],
+            [
+              108.7598168,
+              34.0336522
+            ],
+            [
+              108.7597215,
+              34.0336552
+            ],
+            [
+              108.7590831,
+              34.0336703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091533",
+      "properties": {
+        "id": "way/363091533",
+        "name": "教学西楼D座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学西楼D座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7592383,
+              34.0344134
+            ],
+            [
+              108.7592342,
+              34.033999
+            ],
+            [
+              108.7597302,
+              34.0339484
+            ],
+            [
+              108.7597215,
+              34.0336552
+            ],
+            [
+              108.7598168,
+              34.0336522
+            ],
+            [
+              108.7598147,
+              34.0336047
+            ],
+            [
+              108.7599741,
+              34.0336014
+            ],
+            [
+              108.7600473,
+              34.0336149
+            ],
+            [
+              108.760092,
+              34.0336486
+            ],
+            [
+              108.7601327,
+              34.0336957
+            ],
+            [
+              108.760153,
+              34.0337598
+            ],
+            [
+              108.7601368,
+              34.0338238
+            ],
+            [
+              108.7600554,
+              34.0338878
+            ],
+            [
+              108.7599985,
+              34.033908
+            ],
+            [
+              108.7598481,
+              34.033908
+            ],
+            [
+              108.759779,
+              34.0343797
+            ],
+            [
+              108.7592383,
+              34.0344134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091534",
+      "properties": {
+        "id": "way/363091534",
+        "name": "教学西楼B座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学西楼B座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7590831,
+              34.0336703
+            ],
+            [
+              108.7583058,
+              34.03369
+            ],
+            [
+              108.7582994,
+              34.0335169
+            ],
+            [
+              108.7579281,
+              34.0335263
+            ],
+            [
+              108.7579142,
+              34.0331526
+            ],
+            [
+              108.7582762,
+              34.0331434
+            ],
+            [
+              108.7582715,
+              34.0330155
+            ],
+            [
+              108.7583922,
+              34.0330125
+            ],
+            [
+              108.7590644,
+              34.0329954
+            ],
+            [
+              108.7590704,
+              34.0331582
+            ],
+            [
+              108.7584679,
+              34.0331735
+            ],
+            [
+              108.7584794,
+              34.0334868
+            ],
+            [
+              108.7590758,
+              34.0334717
+            ],
+            [
+              108.7590831,
+              34.0336703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091535",
+      "properties": {
+        "id": "way/363091535",
+        "name": "教学西楼A座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学西楼A座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7582715,
+              34.0330155
+            ],
+            [
+              108.7582585,
+              34.0329882
+            ],
+            [
+              108.7581609,
+              34.0329512
+            ],
+            [
+              108.7581162,
+              34.0329242
+            ],
+            [
+              108.7580918,
+              34.0328602
+            ],
+            [
+              108.7580918,
+              34.0328029
+            ],
+            [
+              108.7581243,
+              34.032749
+            ],
+            [
+              108.7582057,
+              34.0327187
+            ],
+            [
+              108.7583032,
+              34.032685
+            ],
+            [
+              108.7583601,
+              34.0326715
+            ],
+            [
+              108.7583601,
+              34.0326412
+            ],
+            [
+              108.7582951,
+              34.0326412
+            ],
+            [
+              108.7583439,
+              34.0323043
+            ],
+            [
+              108.7589334,
+              34.032274
+            ],
+            [
+              108.7588683,
+              34.0326513
+            ],
+            [
+              108.7584658,
+              34.0326648
+            ],
+            [
+              108.7583967,
+              34.0327052
+            ],
+            [
+              108.7583922,
+              34.0330125
+            ],
+            [
+              108.7582715,
+              34.0330155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091536",
+      "properties": {
+        "id": "way/363091536",
+        "name": "保安处",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "保安处"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7550032,
+              34.0377
+            ],
+            [
+              108.7549474,
+              34.0366761
+            ],
+            [
+              108.7558931,
+              34.0366406
+            ],
+            [
+              108.7559489,
+              34.0376645
+            ],
+            [
+              108.7550032,
+              34.0377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091537",
+      "properties": {
+        "id": "way/363091537",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7579328,
+            34.0345047
+          ],
+          [
+            108.7579432,
+            34.0347275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091538",
+      "properties": {
+        "id": "way/363091538",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.757707,
+            34.034519
+          ],
+          [
+            108.7579328,
+            34.0345047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091539",
+      "properties": {
+        "id": "way/363091539",
+        "name": "华山路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "华山路",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7577221,
+            34.0347388
+          ],
+          [
+            108.757707,
+            34.034519
+          ],
+          [
+            108.7575916,
+            34.0328426
+          ],
+          [
+            108.7574814,
+            34.0312417
+          ],
+          [
+            108.7573802,
+            34.0299044
+          ],
+          [
+            108.7573103,
+            34.0289824
+          ],
+          [
+            108.7572847,
+            34.0283068
+          ],
+          [
+            108.7572216,
+            34.0274979
+          ],
+          [
+            108.7572078,
+            34.0273213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363091540",
+      "properties": {
+        "id": "way/363091540",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7579328,
+            34.0345047
+          ],
+          [
+            108.7589944,
+            34.034466
+          ],
+          [
+            108.7603043,
+            34.0344183
+          ],
+          [
+            108.7604072,
+            34.0344146
+          ],
+          [
+            108.7603818,
+            34.0346133
+          ],
+          [
+            108.7602567,
+            34.0355914
+          ],
+          [
+            108.7602735,
+            34.0358079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/517192598",
+      "properties": {
+        "id": "way/517192598",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "natural": "water"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7637057,
+              34.0322808
+            ],
+            [
+              108.763689,
+              34.0318402
+            ],
+            [
+              108.7642277,
+              34.0318262
+            ],
+            [
+              108.7642443,
+              34.0322668
+            ],
+            [
+              108.7637057,
+              34.0322808
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/571580969",
+      "properties": {
+        "id": "way/571580969",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7626628,
+            34.0323481
+          ],
+          [
+            108.762377,
+            34.0326912
+          ],
+          [
+            108.7619356,
+            34.0329888
+          ],
+          [
+            108.7614792,
+            34.0331004
+          ],
+          [
+            108.7610452,
+            34.0331128
+          ],
+          [
+            108.7605439,
+            34.0330136
+          ],
+          [
+            108.7601848,
+            34.0327656
+          ],
+          [
+            108.7599371,
+            34.0325274
+          ],
+          [
+            108.7598589,
+            34.0323659
+          ],
+          [
+            108.7598006,
+            34.0322455
+          ],
+          [
+            108.7597382,
+            34.0318769
+          ],
+          [
+            108.759893,
+            34.0314263
+          ],
+          [
+            108.760175,
+            34.0310615
+          ],
+          [
+            108.7603137,
+            34.0309474
+          ],
+          [
+            108.7606636,
+            34.0307876
+          ],
+          [
+            108.7608881,
+            34.0307566
+          ],
+          [
+            108.7609479,
+            34.0303846
+          ],
+          [
+            108.7614193,
+            34.0303722
+          ],
+          [
+            108.7616514,
+            34.0304446
+          ],
+          [
+            108.7620553,
+            34.0305706
+          ],
+          [
+            108.7624668,
+            34.0308682
+          ],
+          [
+            108.7627361,
+            34.0312712
+          ],
+          [
+            108.7628719,
+            34.0317603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/571580974",
+      "properties": {
+        "id": "way/571580974",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7603043,
+            34.0344183
+          ],
+          [
+            108.7605439,
+            34.0330136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/813722641",
+      "properties": {
+        "id": "way/813722641",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7616514,
+            34.0304446
+          ],
+          [
+            108.7615681,
+            34.0291184
+          ],
+          [
+            108.7614718,
+            34.0275751
+          ],
+          [
+            108.7614544,
+            34.0273069
+          ],
+          [
+            108.761444,
+            34.0271416
+          ],
+          [
+            108.7613837,
+            34.0262099
+          ],
+          [
+            108.761276,
+            34.024545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/819971739",
+      "properties": {
+        "id": "way/819971739",
+        "name": "华山路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "华山路",
+          "oneway": "no"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7572078,
+            34.0273213
+          ],
+          [
+            108.7571049,
+            34.0254697
+          ],
+          [
+            108.7570514,
+            34.0247469
+          ],
+          [
+            108.7569652,
+            34.0233293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/819971740",
+      "properties": {
+        "id": "way/819971740",
+        "name": "华山路",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential",
+          "name": "华山路",
+          "oneway": "yes"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7574098,
+            34.0273126
+          ],
+          [
+            108.7574221,
+            34.0274897
+          ],
+          [
+            108.7576698,
+            34.0310373
+          ],
+          [
+            108.7578263,
+            34.0328303
+          ],
+          [
+            108.7579328,
+            34.0345047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/819971741",
+      "properties": {
+        "id": "way/819971741",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7574734,
+            34.0204463
+          ],
+          [
+            108.7578488,
+            34.0220005
+          ],
+          [
+            108.7579955,
+            34.0226081
+          ],
+          [
+            108.75815,
+            34.0232476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/953306710",
+      "properties": {
+        "id": "way/953306710",
+        "name": "启真湖",
+        "layer": "area",
+        "osm_tags": {
+          "name": "启真湖",
+          "natural": "water",
+          "water": "lake"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7621865,
+              34.0308107
+            ],
+            [
+              108.7621999,
+              34.0307701
+            ],
+            [
+              108.7622101,
+              34.030747
+            ],
+            [
+              108.7621946,
+              34.030702
+            ],
+            [
+              108.762123,
+              34.0306547
+            ],
+            [
+              108.7620513,
+              34.0306175
+            ],
+            [
+              108.7619541,
+              34.0305911
+            ],
+            [
+              108.7619333,
+              34.0306428
+            ],
+            [
+              108.7619335,
+              34.0306943
+            ],
+            [
+              108.7618618,
+              34.0307519
+            ],
+            [
+              108.7618094,
+              34.0307937
+            ],
+            [
+              108.7617514,
+              34.0308568
+            ],
+            [
+              108.7617404,
+              34.030996
+            ],
+            [
+              108.7617106,
+              34.0310247
+            ],
+            [
+              108.7616663,
+              34.0310588
+            ],
+            [
+              108.761621,
+              34.0310522
+            ],
+            [
+              108.7615693,
+              34.031028
+            ],
+            [
+              108.761509,
+              34.031028
+            ],
+            [
+              108.7614758,
+              34.0309993
+            ],
+            [
+              108.7614705,
+              34.0309778
+            ],
+            [
+              108.7613106,
+              34.0308965
+            ],
+            [
+              108.7612507,
+              34.0308948
+            ],
+            [
+              108.7611609,
+              34.0309503
+            ],
+            [
+              108.7610471,
+              34.0309836
+            ],
+            [
+              108.7609601,
+              34.0310003
+            ],
+            [
+              108.7609193,
+              34.0312468
+            ],
+            [
+              108.7611165,
+              34.031269
+            ],
+            [
+              108.7613358,
+              34.0313567
+            ],
+            [
+              108.7615242,
+              34.0314727
+            ],
+            [
+              108.7617071,
+              34.0316718
+            ],
+            [
+              108.7618039,
+              34.0319043
+            ],
+            [
+              108.7618119,
+              34.031987
+            ],
+            [
+              108.7620905,
+              34.0319799
+            ],
+            [
+              108.7621357,
+              34.0318639
+            ],
+            [
+              108.7621592,
+              34.0317863
+            ],
+            [
+              108.762154,
+              34.0317301
+            ],
+            [
+              108.7621337,
+              34.0316715
+            ],
+            [
+              108.7621119,
+              34.0316115
+            ],
+            [
+              108.762078,
+              34.0315717
+            ],
+            [
+              108.7619241,
+              34.0314385
+            ],
+            [
+              108.76185,
+              34.0313225
+            ],
+            [
+              108.7618215,
+              34.0312068
+            ],
+            [
+              108.7618384,
+              34.0311283
+            ],
+            [
+              108.7618635,
+              34.0310749
+            ],
+            [
+              108.761925,
+              34.0310071
+            ],
+            [
+              108.7619838,
+              34.0309564
+            ],
+            [
+              108.7620195,
+              34.0309406
+            ],
+            [
+              108.7620685,
+              34.0309082
+            ],
+            [
+              108.7621045,
+              34.0308814
+            ],
+            [
+              108.7621428,
+              34.0308581
+            ],
+            [
+              108.7621865,
+              34.0308107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/953306711",
+      "properties": {
+        "id": "way/953306711",
+        "name": "启真湖",
+        "layer": "area",
+        "osm_tags": {
+          "name": "启真湖",
+          "natural": "water",
+          "water": "lake"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7618328,
+              34.0322111
+            ],
+            [
+              108.7617987,
+              34.0323175
+            ],
+            [
+              108.7617837,
+              34.0323943
+            ],
+            [
+              108.7616966,
+              34.0324873
+            ],
+            [
+              108.7616102,
+              34.0325598
+            ],
+            [
+              108.7615348,
+              34.0326149
+            ],
+            [
+              108.7613836,
+              34.0326824
+            ],
+            [
+              108.7612819,
+              34.0327263
+            ],
+            [
+              108.761183,
+              34.032755
+            ],
+            [
+              108.7611791,
+              34.0327818
+            ],
+            [
+              108.7611973,
+              34.0328155
+            ],
+            [
+              108.7612032,
+              34.0328615
+            ],
+            [
+              108.7611922,
+              34.0329615
+            ],
+            [
+              108.7611867,
+              34.033014
+            ],
+            [
+              108.7612971,
+              34.0330186
+            ],
+            [
+              108.7613755,
+              34.0330127
+            ],
+            [
+              108.7613959,
+              34.032955
+            ],
+            [
+              108.7614986,
+              34.0328833
+            ],
+            [
+              108.7615596,
+              34.0328343
+            ],
+            [
+              108.7615706,
+              34.0327888
+            ],
+            [
+              108.7616375,
+              34.0327588
+            ],
+            [
+              108.7617076,
+              34.0327434
+            ],
+            [
+              108.7617748,
+              34.0327198
+            ],
+            [
+              108.7618154,
+              34.0326802
+            ],
+            [
+              108.7618432,
+              34.0326327
+            ],
+            [
+              108.7618343,
+              34.0325748
+            ],
+            [
+              108.7618557,
+              34.0325242
+            ],
+            [
+              108.7619353,
+              34.0324778
+            ],
+            [
+              108.7620014,
+              34.0324631
+            ],
+            [
+              108.7620745,
+              34.0324726
+            ],
+            [
+              108.7621302,
+              34.0324407
+            ],
+            [
+              108.7621624,
+              34.0323759
+            ],
+            [
+              108.7621648,
+              34.0323292
+            ],
+            [
+              108.7620623,
+              34.0322921
+            ],
+            [
+              108.7620812,
+              34.0322161
+            ],
+            [
+              108.7618328,
+              34.0322111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/953535583",
+      "properties": {
+        "id": "way/953535583",
+        "name": "启真湖",
+        "layer": "area",
+        "osm_tags": {
+          "name": "启真湖",
+          "natural": "water"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7619746,
+              34.0303907
+            ],
+            [
+              108.7620239,
+              34.030399
+            ],
+            [
+              108.7620788,
+              34.030398
+            ],
+            [
+              108.7620895,
+              34.0303769
+            ],
+            [
+              108.7620945,
+              34.0303589
+            ],
+            [
+              108.7620878,
+              34.0303063
+            ],
+            [
+              108.7620736,
+              34.0302553
+            ],
+            [
+              108.7619569,
+              34.0302286
+            ],
+            [
+              108.7619443,
+              34.0302691
+            ],
+            [
+              108.7619332,
+              34.0302877
+            ],
+            [
+              108.7619353,
+              34.0303064
+            ],
+            [
+              108.7619327,
+              34.0303402
+            ],
+            [
+              108.7619428,
+              34.0303656
+            ],
+            [
+              108.7619559,
+              34.0303782
+            ],
+            [
+              108.7619746,
+              34.0303907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/953535585",
+      "properties": {
+        "id": "way/953535585",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "natural": "water"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.761964,
+              34.030215
+            ],
+            [
+              108.7620609,
+              34.0302302
+            ],
+            [
+              108.7620957,
+              34.0301604
+            ],
+            [
+              108.762121,
+              34.029984
+            ],
+            [
+              108.7620178,
+              34.0297804
+            ],
+            [
+              108.7619965,
+              34.0296389
+            ],
+            [
+              108.7621032,
+              34.0294885
+            ],
+            [
+              108.7619887,
+              34.0292417
+            ],
+            [
+              108.7620578,
+              34.028898
+            ],
+            [
+              108.7621635,
+              34.0286352
+            ],
+            [
+              108.762095,
+              34.0284323
+            ],
+            [
+              108.762009,
+              34.0282916
+            ],
+            [
+              108.7619649,
+              34.0280991
+            ],
+            [
+              108.7621139,
+              34.0279537
+            ],
+            [
+              108.762199,
+              34.0277852
+            ],
+            [
+              108.7621142,
+              34.0277526
+            ],
+            [
+              108.7618504,
+              34.0280894
+            ],
+            [
+              108.761822,
+              34.0282781
+            ],
+            [
+              108.7619306,
+              34.0283965
+            ],
+            [
+              108.7620247,
+              34.0284871
+            ],
+            [
+              108.7620195,
+              34.0285452
+            ],
+            [
+              108.7620268,
+              34.0286064
+            ],
+            [
+              108.7620809,
+              34.0286747
+            ],
+            [
+              108.7620537,
+              34.028743
+            ],
+            [
+              108.7619805,
+              34.0288778
+            ],
+            [
+              108.761883,
+              34.0292821
+            ],
+            [
+              108.7618789,
+              34.0294573
+            ],
+            [
+              108.7619317,
+              34.0295854
+            ],
+            [
+              108.7619074,
+              34.0297067
+            ],
+            [
+              108.7620049,
+              34.0300874
+            ],
+            [
+              108.761964,
+              34.030215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520406",
+      "properties": {
+        "id": "way/1087520406",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7561919,
+            34.0290244
+          ],
+          [
+            108.7561465,
+            34.0283659
+          ],
+          [
+            108.7560638,
+            34.0273811
+          ],
+          [
+            108.7559483,
+            34.0255109
+          ],
+          [
+            108.7571049,
+            34.0254697
+          ],
+          [
+            108.758136,
+            34.0254244
+          ],
+          [
+            108.7583745,
+            34.0252452
+          ],
+          [
+            108.7582904,
+            34.0239912
+          ],
+          [
+            108.7582201,
+            34.0232429
+          ],
+          [
+            108.75815,
+            34.0232476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520407",
+      "properties": {
+        "id": "way/1087520407",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "pitch"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7551819,
+              34.0273335
+            ],
+            [
+              108.7551601,
+              34.0269539
+            ],
+            [
+              108.7559269,
+              34.0269236
+            ],
+            [
+              108.7559487,
+              34.0273032
+            ],
+            [
+              108.7551819,
+              34.0273335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520409",
+      "properties": {
+        "id": "way/1087520409",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7547578,
+            34.027434
+          ],
+          [
+            108.7560638,
+            34.0273811
+          ],
+          [
+            108.7572078,
+            34.0273213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520415",
+      "properties": {
+        "id": "way/1087520415",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7573802,
+            34.0299044
+          ],
+          [
+            108.7559551,
+            34.0299635
+          ],
+          [
+            108.7559361,
+            34.0296383
+          ],
+          [
+            108.755921,
+            34.02938
+          ],
+          [
+            108.7559009,
+            34.0290353
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520416",
+      "properties": {
+        "id": "way/1087520416",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7573103,
+            34.0289824
+          ],
+          [
+            108.7561919,
+            34.0290244
+          ],
+          [
+            108.7559009,
+            34.0290353
+          ],
+          [
+            108.7547885,
+            34.029077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520417",
+      "properties": {
+        "id": "way/1087520417",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "garden"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7564143,
+              34.0295971
+            ],
+            [
+              108.7564058,
+              34.0293843
+            ],
+            [
+              108.7567765,
+              34.0293716
+            ],
+            [
+              108.7568377,
+              34.0294082
+            ],
+            [
+              108.7568446,
+              34.0295435
+            ],
+            [
+              108.7567884,
+              34.029583
+            ],
+            [
+              108.7564143,
+              34.0295971
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520418",
+      "properties": {
+        "id": "way/1087520418",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7559361,
+            34.0296383
+          ],
+          [
+            108.7568173,
+            34.0296027
+          ],
+          [
+            108.7568497,
+            34.0295844
+          ],
+          [
+            108.7568752,
+            34.0295435
+          ],
+          [
+            108.7568684,
+            34.0294082
+          ],
+          [
+            108.7568395,
+            34.0293744
+          ],
+          [
+            108.7567867,
+            34.0293547
+          ],
+          [
+            108.755921,
+            34.02938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520419",
+      "properties": {
+        "id": "way/1087520419",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7561465,
+            34.0283659
+          ],
+          [
+            108.7572847,
+            34.0283068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520420",
+      "properties": {
+        "id": "way/1087520420",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7547893,
+            34.0329893
+          ],
+          [
+            108.7547885,
+            34.029077
+          ],
+          [
+            108.7547578,
+            34.027434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520424",
+      "properties": {
+        "id": "way/1087520424",
+        "name": "海天苑学生食堂",
+        "layer": "building",
+        "osm_tags": {
+          "building": "school",
+          "name": "海天苑学生食堂"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7562563,
+              34.0282353
+            ],
+            [
+              108.7572177,
+              34.0282091
+            ],
+            [
+              108.7572177,
+              34.0281436
+            ],
+            [
+              108.7571933,
+              34.0281436
+            ],
+            [
+              108.757189,
+              34.0280792
+            ],
+            [
+              108.7572134,
+              34.0280769
+            ],
+            [
+              108.7572019,
+              34.0279101
+            ],
+            [
+              108.757084,
+              34.0279139
+            ],
+            [
+              108.7569835,
+              34.0279171
+            ],
+            [
+              108.7564158,
+              34.0279351
+            ],
+            [
+              108.7563555,
+              34.027959
+            ],
+            [
+              108.7563138,
+              34.0280006
+            ],
+            [
+              108.7562836,
+              34.0280519
+            ],
+            [
+              108.7562736,
+              34.0280947
+            ],
+            [
+              108.7562764,
+              34.0281686
+            ],
+            [
+              108.7562506,
+              34.0281698
+            ],
+            [
+              108.7562563,
+              34.0282353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520425",
+      "properties": {
+        "id": "way/1087520425",
+        "name": "海天苑活动中心",
+        "layer": "building",
+        "osm_tags": {
+          "building": "school",
+          "name": "海天苑活动中心"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7562462,
+              34.0274706
+            ],
+            [
+              108.756594,
+              34.0274563
+            ],
+            [
+              108.756594,
+              34.0274921
+            ],
+            [
+              108.7566688,
+              34.0274897
+            ],
+            [
+              108.7567205,
+              34.0274623
+            ],
+            [
+              108.7567995,
+              34.0274528
+            ],
+            [
+              108.7568628,
+              34.0274563
+            ],
+            [
+              108.7569303,
+              34.0274837
+            ],
+            [
+              108.7569892,
+              34.0275314
+            ],
+            [
+              108.7570151,
+              34.0275838
+            ],
+            [
+              108.7570209,
+              34.0276517
+            ],
+            [
+              108.757018,
+              34.0276969
+            ],
+            [
+              108.7570568,
+              34.0276981
+            ],
+            [
+              108.757084,
+              34.0279139
+            ],
+            [
+              108.7569835,
+              34.0279171
+            ],
+            [
+              108.7569777,
+              34.0278017
+            ],
+            [
+              108.7566012,
+              34.0278244
+            ],
+            [
+              108.7565452,
+              34.02776
+            ],
+            [
+              108.7564934,
+              34.0277553
+            ],
+            [
+              108.7564877,
+              34.0277112
+            ],
+            [
+              108.7562649,
+              34.0277184
+            ],
+            [
+              108.7562462,
+              34.0274706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1087520430",
+      "properties": {
+        "id": "way/1087520430",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7603137,
+            34.0309474
+          ],
+          [
+            108.7576698,
+            34.0310373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1161219666",
+      "properties": {
+        "id": "way/1161219666",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "service"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7601159,
+            34.0393139
+          ],
+          [
+            108.760127,
+            34.0391409
+          ],
+          [
+            108.7601355,
+            34.0390086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968805",
+      "properties": {
+        "id": "way/1416968805",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7547619,
+            34.0234109
+          ],
+          [
+            108.7548031,
+            34.0204536
+          ],
+          [
+            108.7574734,
+            34.0204463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968806",
+      "properties": {
+        "id": "way/1416968806",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.75815,
+            34.0232476
+          ],
+          [
+            108.7569652,
+            34.0233293
+          ],
+          [
+            108.7547619,
+            34.0234109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968807",
+      "properties": {
+        "id": "way/1416968807",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7547578,
+            34.027434
+          ],
+          [
+            108.7547605,
+            34.0248241
+          ],
+          [
+            108.7547619,
+            34.0234109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968808",
+      "properties": {
+        "id": "way/1416968808",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7547605,
+            34.0248241
+          ],
+          [
+            108.7570514,
+            34.0247469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968809",
+      "properties": {
+        "id": "way/1416968809",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7578488,
+            34.0220005
+          ],
+          [
+            108.7597967,
+            34.0218972
+          ],
+          [
+            108.7607626,
+            34.021846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968810",
+      "properties": {
+        "id": "way/1416968810",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7602768,
+            34.0234914
+          ],
+          [
+            108.7603627,
+            34.0235888
+          ],
+          [
+            108.7620281,
+            34.0236492
+          ],
+          [
+            108.7629891,
+            34.0237078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968811",
+      "properties": {
+        "id": "way/1416968811",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "unclassified"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7612319,
+            34.0238627
+          ],
+          [
+            108.7617168,
+            34.0237299
+          ],
+          [
+            108.762085,
+            34.0237262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968812",
+      "properties": {
+        "id": "way/1416968812",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7579955,
+            34.0226081
+          ],
+          [
+            108.7598325,
+            34.0225107
+          ],
+          [
+            108.760524,
+            34.022474
+          ],
+          [
+            108.761179,
+            34.0224393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968813",
+      "properties": {
+        "id": "way/1416968813",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7582904,
+            34.0239912
+          ],
+          [
+            108.7594258,
+            34.0236315
+          ],
+          [
+            108.7597555,
+            34.0236222
+          ],
+          [
+            108.7602768,
+            34.0234914
+          ],
+          [
+            108.760524,
+            34.022474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968814",
+      "properties": {
+        "id": "way/1416968814",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7596448,
+            34.0272139
+          ],
+          [
+            108.7597583,
+            34.0270192
+          ],
+          [
+            108.7598807,
+            34.0268566
+          ],
+          [
+            108.7600721,
+            34.0266642
+          ],
+          [
+            108.7602337,
+            34.0265445
+          ],
+          [
+            108.7603812,
+            34.0264496
+          ],
+          [
+            108.7606072,
+            34.0263468
+          ],
+          [
+            108.7607657,
+            34.0262935
+          ],
+          [
+            108.7609524,
+            34.026248
+          ],
+          [
+            108.7613837,
+            34.0262099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968815",
+      "properties": {
+        "id": "way/1416968815",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7572216,
+            34.0274979
+          ],
+          [
+            108.7574221,
+            34.0274897
+          ],
+          [
+            108.7610219,
+            34.0273265
+          ],
+          [
+            108.7614544,
+            34.0273069
+          ],
+          [
+            108.7629957,
+            34.0272491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968816",
+      "properties": {
+        "id": "way/1416968816",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7620358,
+            34.0290992
+          ],
+          [
+            108.7625295,
+            34.0290664
+          ],
+          [
+            108.7645423,
+            34.0289765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968817",
+      "properties": {
+        "id": "way/1416968817",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7637238,
+            34.0324169
+          ],
+          [
+            108.763522,
+            34.0335171
+          ],
+          [
+            108.7634872,
+            34.0342047
+          ],
+          [
+            108.7630417,
+            34.0354792
+          ],
+          [
+            108.7628767,
+            34.0356865
+          ],
+          [
+            108.7625961,
+            34.0365576
+          ],
+          [
+            108.7624229,
+            34.0367626
+          ],
+          [
+            108.7624229,
+            34.0380514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968818",
+      "properties": {
+        "id": "way/1416968818",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7598325,
+            34.0225107
+          ],
+          [
+            108.7597967,
+            34.0218972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968819",
+      "properties": {
+        "id": "way/1416968819",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7598589,
+            34.0323659
+          ],
+          [
+            108.7599065,
+            34.0320661
+          ],
+          [
+            108.7599781,
+            34.0317816
+          ],
+          [
+            108.7600198,
+            34.0315886
+          ],
+          [
+            108.7600872,
+            34.0314447
+          ],
+          [
+            108.7602359,
+            34.0312621
+          ],
+          [
+            108.7603958,
+            34.0311158
+          ],
+          [
+            108.7605222,
+            34.0310357
+          ],
+          [
+            108.7608461,
+            34.0309413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1416968820",
+      "properties": {
+        "id": "way/1416968820",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7607891,
+            34.0312926
+          ],
+          [
+            108.7608461,
+            34.0309413
+          ],
+          [
+            108.7608881,
+            34.0307566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326053",
+      "properties": {
+        "id": "way/1424326053",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7614718,
+            34.0275751
+          ],
+          [
+            108.7613241,
+            34.0275739
+          ],
+          [
+            108.7612053,
+            34.0275276
+          ],
+          [
+            108.7611019,
+            34.0274698
+          ],
+          [
+            108.7610329,
+            34.0273923
+          ],
+          [
+            108.7610219,
+            34.0273265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326054",
+      "properties": {
+        "id": "way/1424326054",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7612678,
+            34.024418
+          ],
+          [
+            108.7612319,
+            34.0238627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326055",
+      "properties": {
+        "id": "way/1424326055",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "bridge": "yes",
+          "highway": "residential",
+          "layer": "1"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.761276,
+            34.024545
+          ],
+          [
+            108.7612678,
+            34.024418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326056",
+      "properties": {
+        "id": "way/1424326056",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7615681,
+            34.0291184
+          ],
+          [
+            108.7619045,
+            34.0291046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326057",
+      "properties": {
+        "id": "way/1424326057",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "bridge": "yes",
+          "highway": "residential",
+          "layer": "1"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7619045,
+            34.0291046
+          ],
+          [
+            108.7620358,
+            34.0290992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326062",
+      "properties": {
+        "id": "way/1424326062",
+        "name": "",
+        "layer": "road",
+        "osm_tags": {
+          "highway": "residential"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.7582201,
+            34.0232429
+          ],
+          [
+            108.7586773,
+            34.0232276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326063",
+      "properties": {
+        "id": "way/1424326063",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "park"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7571783,
+              34.0253922
+            ],
+            [
+              108.7580642,
+              34.0253795
+            ],
+            [
+              108.7582972,
+              34.0252068
+            ],
+            [
+              108.7581776,
+              34.0233267
+            ],
+            [
+              108.7570312,
+              34.0233826
+            ],
+            [
+              108.7571783,
+              34.0253922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1424326064",
+      "properties": {
+        "id": "way/1424326064",
+        "name": "",
+        "layer": "area",
+        "osm_tags": {
+          "leisure": "park"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7579498,
+              34.0219367
+            ],
+            [
+              108.7606259,
+              34.0217937
+            ],
+            [
+              108.7596822,
+              34.0204629
+            ],
+            [
+              108.7575624,
+              34.020457
+            ],
+            [
+              108.7579498,
+              34.0219367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627506",
+      "properties": {
+        "id": "way/1571627506",
+        "name": "教学东楼B座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学东楼B座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7614491,
+              34.0353903
+            ],
+            [
+              108.7621304,
+              34.0353592
+            ],
+            [
+              108.7621196,
+              34.035128
+            ],
+            [
+              108.7620124,
+              34.0351458
+            ],
+            [
+              108.7620177,
+              34.0350258
+            ],
+            [
+              108.7619533,
+              34.0350435
+            ],
+            [
+              108.7619533,
+              34.035128
+            ],
+            [
+              108.7619104,
+              34.0351413
+            ],
+            [
+              108.7619104,
+              34.0351991
+            ],
+            [
+              108.7615886,
+              34.0352214
+            ],
+            [
+              108.7615725,
+              34.0349769
+            ],
+            [
+              108.761547,
+              34.0347524
+            ],
+            [
+              108.7619205,
+              34.034729
+            ],
+            [
+              108.7619221,
+              34.0346787
+            ],
+            [
+              108.7619238,
+              34.0346212
+            ],
+            [
+              108.7614062,
+              34.0346568
+            ],
+            [
+              108.7614115,
+              34.0349858
+            ],
+            [
+              108.7614276,
+              34.0351547
+            ],
+            [
+              108.7614491,
+              34.0353903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627507",
+      "properties": {
+        "id": "way/1571627507",
+        "name": "教学东楼A座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学东楼A座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7618295,
+              34.0345147
+            ],
+            [
+              108.7618134,
+              34.0342258
+            ],
+            [
+              108.7617115,
+              34.0342169
+            ],
+            [
+              108.7617169,
+              34.0340969
+            ],
+            [
+              108.7622855,
+              34.0340791
+            ],
+            [
+              108.7622962,
+              34.0341724
+            ],
+            [
+              108.7621031,
+              34.0342036
+            ],
+            [
+              108.762087,
+              34.0342658
+            ],
+            [
+              108.7622909,
+              34.0342658
+            ],
+            [
+              108.7623016,
+              34.0343725
+            ],
+            [
+              108.761969,
+              34.0343947
+            ],
+            [
+              108.7619744,
+              34.0345503
+            ],
+            [
+              108.7618295,
+              34.0345592
+            ],
+            [
+              108.7618295,
+              34.0345147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627508",
+      "properties": {
+        "id": "way/1571627508",
+        "name": "教学东楼C座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学东楼C座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7619493,
+              34.0350273
+            ],
+            [
+              108.7619221,
+              34.0346787
+            ],
+            [
+              108.7625243,
+              34.0346316
+            ],
+            [
+              108.7625773,
+              34.0346275
+            ],
+            [
+              108.7625787,
+              34.0346484
+            ],
+            [
+              108.762602,
+              34.0349993
+            ],
+            [
+              108.7619493,
+              34.0350273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627509",
+      "properties": {
+        "id": "way/1571627509",
+        "name": "教学东楼D座",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "教学东楼D座"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7626317,
+              34.0350347
+            ],
+            [
+              108.7626387,
+              34.0349438
+            ],
+            [
+              108.7630918,
+              34.0349204
+            ],
+            [
+              108.7630847,
+              34.0346769
+            ],
+            [
+              108.7629997,
+              34.0346828
+            ],
+            [
+              108.7629785,
+              34.0344394
+            ],
+            [
+              108.7626317,
+              34.0344599
+            ],
+            [
+              108.7626423,
+              34.0345303
+            ],
+            [
+              108.7625963,
+              34.0345244
+            ],
+            [
+              108.7625787,
+              34.0346484
+            ],
+            [
+              108.7625243,
+              34.0346316
+            ],
+            [
+              108.7625326,
+              34.0345361
+            ],
+            [
+              108.7624405,
+              34.0345391
+            ],
+            [
+              108.7624264,
+              34.0343191
+            ],
+            [
+              108.7631095,
+              34.0342868
+            ],
+            [
+              108.7631519,
+              34.0350171
+            ],
+            [
+              108.7626317,
+              34.0350347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627510",
+      "properties": {
+        "id": "way/1571627510",
+        "name": "力学与交通运载工程学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "力学与交通运载工程学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7628122,
+              34.0340405
+            ],
+            [
+              108.7633183,
+              34.0340082
+            ],
+            [
+              108.7633183,
+              34.0339701
+            ],
+            [
+              108.7634244,
+              34.033973
+            ],
+            [
+              108.7633997,
+              34.0335859
+            ],
+            [
+              108.763297,
+              34.0336035
+            ],
+            [
+              108.7632546,
+              34.0335976
+            ],
+            [
+              108.7632611,
+              34.0334239
+            ],
+            [
+              108.7628221,
+              34.0334508
+            ],
+            [
+              108.7628139,
+              34.0332537
+            ],
+            [
+              108.7625619,
+              34.033252
+            ],
+            [
+              108.7625742,
+              34.0334305
+            ],
+            [
+              108.7627899,
+              34.0334169
+            ],
+            [
+              108.7627859,
+              34.0334942
+            ],
+            [
+              108.7627454,
+              34.0335581
+            ],
+            [
+              108.7624818,
+              34.0335609
+            ],
+            [
+              108.7625075,
+              34.0339506
+            ],
+            [
+              108.7627702,
+              34.0339417
+            ],
+            [
+              108.7627833,
+              34.0338833
+            ],
+            [
+              108.7628422,
+              34.033888
+            ],
+            [
+              108.762846,
+              34.0339646
+            ],
+            [
+              108.762813,
+              34.0339764
+            ],
+            [
+              108.7628122,
+              34.0340405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627511",
+      "properties": {
+        "id": "way/1571627511",
+        "name": "为国铸剑雕塑",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "为国铸剑雕塑"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7630091,
+              34.032275
+            ],
+            [
+              108.763005,
+              34.0318909
+            ],
+            [
+              108.7634847,
+              34.0318909
+            ],
+            [
+              108.7635051,
+              34.0322683
+            ],
+            [
+              108.7630091,
+              34.032275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627512",
+      "properties": {
+        "id": "way/1571627512",
+        "name": "管理学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "管理学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.762757,
+              34.0332049
+            ],
+            [
+              108.7627367,
+              34.0330229
+            ],
+            [
+              108.7633181,
+              34.0329926
+            ],
+            [
+              108.7634075,
+              34.0329758
+            ],
+            [
+              108.7634034,
+              34.03275
+            ],
+            [
+              108.7630863,
+              34.0327602
+            ],
+            [
+              108.7630944,
+              34.0328916
+            ],
+            [
+              108.7629847,
+              34.032905
+            ],
+            [
+              108.7629725,
+              34.0326288
+            ],
+            [
+              108.7633994,
+              34.0326119
+            ],
+            [
+              108.7633994,
+              34.032649
+            ],
+            [
+              108.7635051,
+              34.0326422
+            ],
+            [
+              108.7635173,
+              34.0329893
+            ],
+            [
+              108.76344,
+              34.0330027
+            ],
+            [
+              108.7633181,
+              34.0330297
+            ],
+            [
+              108.7633099,
+              34.0331779
+            ],
+            [
+              108.762757,
+              34.0332049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627513",
+      "properties": {
+        "id": "way/1571627513",
+        "name": "体育馆副馆",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "体育馆副馆"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7636717,
+              34.0362572
+            ],
+            [
+              108.7636189,
+              34.0360248
+            ],
+            [
+              108.7636474,
+              34.0357923
+            ],
+            [
+              108.7638791,
+              34.0357553
+            ],
+            [
+              108.764123,
+              34.0357553
+            ],
+            [
+              108.7641677,
+              34.036018
+            ],
+            [
+              108.7641433,
+              34.0362438
+            ],
+            [
+              108.7639197,
+              34.0362774
+            ],
+            [
+              108.7636717,
+              34.0362572
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627514",
+      "properties": {
+        "id": "way/1571627514",
+        "name": "计算机学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "计算机学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7639307,
+              34.0342242
+            ],
+            [
+              108.7639201,
+              34.0341831
+            ],
+            [
+              108.7638175,
+              34.0341802
+            ],
+            [
+              108.7637856,
+              34.0337813
+            ],
+            [
+              108.7639944,
+              34.0337813
+            ],
+            [
+              108.7640333,
+              34.0336053
+            ],
+            [
+              108.7645925,
+              34.0335818
+            ],
+            [
+              108.764589,
+              34.0337783
+            ],
+            [
+              108.7645536,
+              34.0337842
+            ],
+            [
+              108.7645607,
+              34.0338869
+            ],
+            [
+              108.7646633,
+              34.0338898
+            ],
+            [
+              108.764681,
+              34.0341919
+            ],
+            [
+              108.7639307,
+              34.0342242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627515",
+      "properties": {
+        "id": "way/1571627515",
+        "name": "马克思主义学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "马克思主义学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7636794,
+              34.0349427
+            ],
+            [
+              108.7636476,
+              34.0345497
+            ],
+            [
+              108.7637714,
+              34.0345526
+            ],
+            [
+              108.763775,
+              34.0345966
+            ],
+            [
+              108.7638953,
+              34.0345878
+            ],
+            [
+              108.7639166,
+              34.0343092
+            ],
+            [
+              108.7639555,
+              34.0343092
+            ],
+            [
+              108.763959,
+              34.0344031
+            ],
+            [
+              108.7640723,
+              34.0343972
+            ],
+            [
+              108.7640794,
+              34.0344207
+            ],
+            [
+              108.7641254,
+              34.0344383
+            ],
+            [
+              108.7641077,
+              34.0346054
+            ],
+            [
+              108.7642103,
+              34.0346201
+            ],
+            [
+              108.7642705,
+              34.034623
+            ],
+            [
+              108.7642669,
+              34.0345409
+            ],
+            [
+              108.7647376,
+              34.0345262
+            ],
+            [
+              108.7647624,
+              34.0348283
+            ],
+            [
+              108.7642846,
+              34.0348459
+            ],
+            [
+              108.7642705,
+              34.0349339
+            ],
+            [
+              108.7637927,
+              34.0349603
+            ],
+            [
+              108.7637927,
+              34.0349222
+            ],
+            [
+              108.7636794,
+              34.0349427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627516",
+      "properties": {
+        "id": "way/1571627516",
+        "name": "启翔楼",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "启翔楼"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7600716,
+              34.0259758
+            ],
+            [
+              108.7600448,
+              34.0258824
+            ],
+            [
+              108.7601467,
+              34.0258691
+            ],
+            [
+              108.7601467,
+              34.0257713
+            ],
+            [
+              108.7601038,
+              34.0257802
+            ],
+            [
+              108.7600931,
+              34.0255312
+            ],
+            [
+              108.7599697,
+              34.0255312
+            ],
+            [
+              108.759959,
+              34.0253711
+            ],
+            [
+              108.7601467,
+              34.0253533
+            ],
+            [
+              108.7602433,
+              34.0253667
+            ],
+            [
+              108.760254,
+              34.0252866
+            ],
+            [
+              108.7603238,
+              34.0252778
+            ],
+            [
+              108.7603559,
+              34.0251666
+            ],
+            [
+              108.7604901,
+              34.0251533
+            ],
+            [
+              108.7605062,
+              34.0251044
+            ],
+            [
+              108.7608334,
+              34.0250732
+            ],
+            [
+              108.7608387,
+              34.0251355
+            ],
+            [
+              108.761107,
+              34.025131
+            ],
+            [
+              108.7611177,
+              34.0253444
+            ],
+            [
+              108.7610694,
+              34.0253489
+            ],
+            [
+              108.7611016,
+              34.0255267
+            ],
+            [
+              108.7611231,
+              34.0257179
+            ],
+            [
+              108.7609246,
+              34.0257268
+            ],
+            [
+              108.7605973,
+              34.0257312
+            ],
+            [
+              108.7606295,
+              34.0258379
+            ],
+            [
+              108.7606242,
+              34.0259135
+            ],
+            [
+              108.7610426,
+              34.0258646
+            ],
+            [
+              108.7610533,
+              34.0259535
+            ],
+            [
+              108.7600716,
+              34.0259758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1571627517",
+      "properties": {
+        "id": "way/1571627517",
+        "name": "动力与能源学院",
+        "layer": "building",
+        "osm_tags": {
+          "building": "university",
+          "name": "动力与能源学院"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7640381,
+              34.0333629
+            ],
+            [
+              108.7640706,
+              34.0331844
+            ],
+            [
+              108.763908,
+              34.0331978
+            ],
+            [
+              108.7638876,
+              34.0328171
+            ],
+            [
+              108.7639568,
+              34.0328138
+            ],
+            [
+              108.7639933,
+              34.0327936
+            ],
+            [
+              108.7639893,
+              34.0327498
+            ],
+            [
+              108.7645828,
+              34.0327127
+            ],
+            [
+              108.7646032,
+              34.0330092
+            ],
+            [
+              108.7645015,
+              34.0330193
+            ],
+            [
+              108.7645056,
+              34.0331406
+            ],
+            [
+              108.7645381,
+              34.033154
+            ],
+            [
+              108.7645544,
+              34.033336
+            ],
+            [
+              108.7640381,
+              34.0333629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3671963086",
+      "properties": {
+        "id": "node/3671963086",
+        "name": "西北工业大学长安校区东门（北）",
+        "layer": "poi",
+        "osm_tags": {
+          "barrier": "gate",
+          "name": "西北工业大学长安校区东门（北）"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7649295,
+          34.0354977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3671963087",
+      "properties": {
+        "id": "node/3671963087",
+        "name": "西北工业大学长安校区北门",
+        "layer": "poi",
+        "osm_tags": {
+          "barrier": "gate",
+          "name": "西北工业大学长安校区北门"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.760127,
+          34.0391409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3671971304",
+      "properties": {
+        "id": "node/3671971304",
+        "name": "西北工业大学长安校区校车候车点",
+        "layer": "poi",
+        "osm_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "西北工业大学长安校区校车候车点",
+          "public_transport": "station"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7612332,
+          34.0362237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672876837",
+      "properties": {
+        "id": "node/3672876837",
+        "name": "学府快餐",
+        "layer": "poi",
+        "osm_tags": {
+          "amenity": "restaurant",
+          "name": "学府快餐"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7582578,
+          34.0359733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672876856",
+      "properties": {
+        "id": "node/3672876856",
+        "name": "联通营业厅",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "联通营业厅"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7569672,
+          34.038331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672876858",
+      "properties": {
+        "id": "node/3672876858",
+        "name": "圆通快递",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "圆通快递"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7569458,
+          34.0388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672876859",
+      "properties": {
+        "id": "node/3672876859",
+        "name": "中通快递",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "中通快递"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7569028,
+          34.0387666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672876860",
+      "properties": {
+        "id": "node/3672876860",
+        "name": "韵达快递",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "韵达快递"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7569028,
+          34.0386688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672964577",
+      "properties": {
+        "id": "node/3672964577",
+        "name": "水电费交费中心",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "水电费交费中心"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.757947,
+          34.0350655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672964578",
+      "properties": {
+        "id": "node/3672964578",
+        "name": "一卡通中心",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "一卡通中心"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7587978,
+          34.035022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3672964579",
+      "properties": {
+        "id": "node/3672964579",
+        "name": "中国电信营业厅",
+        "layer": "poi",
+        "osm_tags": {
+          "building": "university",
+          "name": "中国电信营业厅"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7587936,
+          34.0350477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9964145884",
+      "properties": {
+        "id": "node/9964145884",
+        "name": "南山艺堂",
+        "layer": "poi",
+        "osm_tags": {
+          "amenity": "arts_centre",
+          "name": "南山艺堂"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7567591,
+          34.0276453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14477261",
+      "properties": {
+        "id": "relation/14477261",
+        "name": "军工素质教育实践中心",
+        "layer": "building",
+        "osm_tags": {
+          "building": "school",
+          "name": "军工素质教育实践中心",
+          "type": "multipolygon"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7587271,
+              34.0237859
+            ],
+            [
+              108.7589263,
+              34.0233171
+            ],
+            [
+              108.7595032,
+              34.0233327
+            ],
+            [
+              108.7594074,
+              34.0231987
+            ],
+            [
+              108.7594092,
+              34.0231707
+            ],
+            [
+              108.7587271,
+              34.0232034
+            ],
+            [
+              108.7584959,
+              34.0227283
+            ],
+            [
+              108.7595709,
+              34.022842
+            ],
+            [
+              108.7603451,
+              34.0226676
+            ],
+            [
+              108.7601553,
+              34.0231037
+            ],
+            [
+              108.7597964,
+              34.0231598
+            ],
+            [
+              108.759834,
+              34.0232267
+            ],
+            [
+              108.7598001,
+              34.0232641
+            ],
+            [
+              108.7601553,
+              34.0232563
+            ],
+            [
+              108.7601628,
+              34.0234759
+            ],
+            [
+              108.7598227,
+              34.0235647
+            ],
+            [
+              108.7596949,
+              34.0233467
+            ],
+            [
+              108.7595558,
+              34.0233545
+            ],
+            [
+              108.7595446,
+              34.0234915
+            ],
+            [
+              108.7593641,
+              34.0235492
+            ],
+            [
+              108.759366,
+              34.0235865
+            ],
+            [
+              108.7591743,
+              34.0236364
+            ],
+            [
+              108.7591743,
+              34.0236769
+            ],
+            [
+              108.7587271,
+              34.0237859
+            ]
+          ],
+          [
+            [
+              108.7595615,
+              34.0233062
+            ],
+            [
+              108.7594863,
+              34.0231971
+            ],
+            [
+              108.759537,
+              34.0231177
+            ],
+            [
+              108.7597043,
+              34.0231068
+            ],
+            [
+              108.7597644,
+              34.0232143
+            ],
+            [
+              108.7596987,
+              34.0233046
+            ],
+            [
+              108.7595615,
+              34.0233062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14477264",
+      "properties": {
+        "id": "relation/14477264",
+        "name": "亚洲最大水上图书馆",
+        "layer": "building",
+        "osm_tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "亚洲最大水上图书馆",
+          "type": "multipolygon"
+        },
+        "source": "OpenStreetMap",
+        "verified": false,
+        "accessibility_status": "unknown",
+        "aliases": [
+          "图书馆"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.7612533,
+              34.032686
+            ],
+            [
+              108.7609927,
+              34.0327229
+            ],
+            [
+              108.7608179,
+              34.032726
+            ],
+            [
+              108.7605631,
+              34.0326834
+            ],
+            [
+              108.7603552,
+              34.0325829
+            ],
+            [
+              108.7602545,
+              34.0325055
+            ],
+            [
+              108.7601997,
+              34.0324192
+            ],
+            [
+              108.7601219,
+              34.032303
+            ],
+            [
+              108.7600718,
+              34.0321552
+            ],
+            [
+              108.7600683,
+              34.0320151
+            ],
+            [
+              108.7600829,
+              34.0318869
+            ],
+            [
+              108.7601152,
+              34.0317926
+            ],
+            [
+              108.7605782,
+              34.0317669
+            ],
+            [
+              108.7605776,
+              34.031631
+            ],
+            [
+              108.7601934,
+              34.0316511
+            ],
+            [
+              108.7603671,
+              34.0314789
+            ],
+            [
+              108.7608545,
+              34.031453
+            ],
+            [
+              108.7608779,
+              34.031294
+            ],
+            [
+              108.7609871,
+              34.031302
+            ],
+            [
+              108.7608931,
+              34.0320121
+            ],
+            [
+              108.7608088,
+              34.0320184
+            ],
+            [
+              108.7608169,
+              34.0319552
+            ],
+            [
+              108.7606608,
+              34.0319604
+            ],
+            [
+              108.7606394,
+              34.0322637
+            ],
+            [
+              108.7617508,
+              34.0322181
+            ],
+            [
+              108.761688,
+              34.032413
+            ],
+            [
+              108.7614941,
+              34.032575
+            ],
+            [
+              108.7612533,
+              34.032686
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
